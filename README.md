@@ -16,9 +16,9 @@
 <br/>
 
 
-[![Sandhi Zulqifli's github stats](https://github-readme-stats.vercel.app/api?username=sandhi)](https://github.com/sandhi/github-readme-stats)
+[![Sandhi Zulqifli's github stats](https://github-readme-stats.vercel.app/api?username=sandhi&show_icons=true&theme=graywhite)](https://github.com/sandhi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhi)](https://github.com/sandhi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhi&show_icons=true&theme=graywhite)](https://github.com/sandhi/github-readme-stats)
 
 <br/>
 
